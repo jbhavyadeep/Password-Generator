@@ -30,8 +30,8 @@
 
 ### Clone the repository
 ```
-git clone https://github.com/yourusername/password-generator.git
-cd password-generator
+git clone https://github.com/jbhavyadeep/Password-Generator.git
+cd passwordGenerator
 ```
 ### Install dependencies
 ```
